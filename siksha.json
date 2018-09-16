@@ -14,14 +14,14 @@
           "id": "a2",
           "text": "B",
           "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_b.png"
-          
+
         }
       ]
     },
     {
       "id": "2",
       "name": "o-to-ou",
-      "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
+      "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png",
       "details": [
         {
           "id": "o1",
