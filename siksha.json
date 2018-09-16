@@ -39,6 +39,13 @@
           "al_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_2_aa.png",
           "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/mango.png",
           "description": "আমটি আমি খাবো পেড়ে"
+        },
+        {
+          "id": "o3",
+          "text": "ই",
+          "al_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_3_e.png",
+          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/rat.png",
+          "description": "ইঁদুর ছানা ভয়ে মরে"
         }
       ]
     }
