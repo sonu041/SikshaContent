@@ -1,0 +1,39 @@
+{
+  "learn": [
+    {
+      "id": "1",
+      "name": "a-to-z",
+      "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_a.png",
+      "details": [
+        {
+          "id": "a1",
+          "text": "A",
+          "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_a.png"
+        },
+        {
+          "id": "a2",
+          "text": "B",
+          "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_b.png"
+          
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "o-to-ou",
+      "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
+      "details": [
+        {
+          "id": "o1",
+          "text": "O",
+          "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png"
+        },
+        {
+          "id": "o2",
+          "text": "Oa",
+          "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_2_aa.png"
+        }
+      ]
+    }
+  ]
+}
