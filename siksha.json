@@ -2,7 +2,7 @@
   "learn": [
     {
       "id": "1",
-      "name": "a-to-z",
+      "name": "A-Z",
       "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_a.png",
       "details": [
         {
@@ -20,17 +20,17 @@
     },
     {
       "id": "2",
-      "name": "o-to-ou",
+      "name": "অ-ঔ",
       "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png",
       "details": [
         {
           "id": "o1",
-          "text": "O",
+          "text": "অ",
           "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png"
         },
         {
           "id": "o2",
-          "text": "Oa",
+          "text": "আ",
           "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_2_aa.png"
         }
       ]
