@@ -8,13 +8,16 @@
         {
           "id": "a1",
           "text": "A",
-          "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_a.png"
+          "al_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_a.png",
+          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_a.png",
+          "description": "A for Apple"
         },
         {
           "id": "a2",
           "text": "B",
-          "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_b.png"
-
+          "al_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_b.png",
+          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_b.png",
+          "description": "B for Ball"
         }
       ]
     },
@@ -26,12 +29,16 @@
         {
           "id": "o1",
           "text": "অ",
-          "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png"
+          "al_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png",
+          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png",
+          "description": "অ এ অজগর আসছে তেড়ে"
         },
         {
           "id": "o2",
           "text": "আ",
-          "img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_2_aa.png"
+          "al_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_2_aa.png",
+          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png",
+          "description": "আমটি আমি খাবো পেড়ে"
         }
       ]
     }
