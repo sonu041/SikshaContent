@@ -16,7 +16,7 @@
           "id": "a2",
           "text": "B",
           "al_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_b.png",
-          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_b.png",
+          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/ball.png",
           "description": "B for Ball"
         }
       ]
@@ -30,14 +30,14 @@
           "id": "o1",
           "text": "অ",
           "al_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png",
-          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png",
+          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/python.png",
           "description": "অ এ অজগর আসছে তেড়ে"
         },
         {
           "id": "o2",
           "text": "আ",
           "al_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_2_aa.png",
-          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/letter_ben_1_o.png",
+          "obj_img": "https://raw.githubusercontent.com/sonu041/SikshaContent/master/images/mango.png",
           "description": "আমটি আমি খাবো পেড়ে"
         }
       ]
